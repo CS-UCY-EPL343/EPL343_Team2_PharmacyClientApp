@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    tools:context=".ActivityContact">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ΕΠΙΚΟΙΝΩΝΙΑ"
+        android:textStyle="bold"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="25dp"
+        android:textSize="22sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Ώρες Λειτουργίας: "
+        android:textStyle="bold"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="70dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Δευτέρα Τρίτη  Πέμπτη  Παρασκευή
+                          8:30-13:30 15:00-19:00
+                      Τετάρτη και Σάββατο 8:30-14:00"
+        android:layout_marginLeft="145dp"
+        android:layout_marginTop="70dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Διεύθυνση:"
+        android:textStyle="bold"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="150dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ΚΥΡΙΑΚΟΥ ΜΑΤΣΗ 159, 7104
+               Αραδίππου, Λάρνακα"
+        android:layout_marginLeft="145dp"
+        android:layout_marginTop="150dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Τηλέφωνο: "
+        android:textStyle="bold"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="200dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="145dp"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/round"
+        android:drawableLeft="@drawable/ic_phone_black_24dp"
+        android:text="24534388" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Facebook: "
+        android:textStyle="bold"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="250dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Φαρμακείο Γεωργία Γεωργίου "
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="250dp" />
+    <ImageView
+        android:id="@+id/facebook1"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:layout_marginLeft="145dp"
+        android:layout_marginTop="250dp"
+        android:src="@drawable/fb" />
+    <ImageButton
+        android:id="@+id/xartis"
+        android:layout_width="330dp"
+        android:layout_height="200dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="290dp"
+        android:viewportWidth="24.0"
+        android:viewportHeight="24.0"
+        android:src="@drawable/map" />
+
+
+
+
+</RelativeLayout>
