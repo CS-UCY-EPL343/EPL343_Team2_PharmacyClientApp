@@ -73,18 +73,12 @@
                         android:textAppearance="?android:attr/textAppearanceLarge" />
 
                     <TextView
-                        android:id="@+id/productID"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text=""
-                        android:textAppearance="?android:attr/textAppearanceLarge" />
-
-                    <TextView
                         android:id="@+id/textView3"
                         android:layout_width="wrap_content"
                         android:layout_height="60dp"
-                        android:text="Μισιέλ Ορφανίδης, Ερμού 24, Τηλ: 24621360"
-                        android:textSize="18dp"
+                        android:text="Μισιέλ Ορφανίδης, Ερμού 24,
+                         Τηλ: 24621360"
+                        android:textSize="17dp"
                         android:textAppearance="?android:attr/textAppearanceLarge" />
 
                 <TextView
@@ -92,7 +86,7 @@
                         android:layout_height="60dp"
                         android:text="Λευτέρης Γεωργίου,
                                Λεωφ. Αγ. Αναργύρων 50 Τηλ: 24631390"
-                        android:textSize="18dp"
+                        android:textSize="17dp"
                         android:textAppearance="?android:attr/textAppearanceLarge" />
                 <TextView
                     android:layout_width="wrap_content"
@@ -104,14 +98,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="60dp"
-                    android:text="Σταύρος Ιακωβίδης, Λεωφ. Φανερωμένης αρ. 189-191, Τηλ: 24637499"
-                    android:textSize="18dp"
+                    android:text="Σταύρος Ιακωβίδης, Λεωφ. Φανερωμένης αρ. 189-191
+                    Τηλ: 24637499"
+                    android:textSize="17dp"
                     android:textAppearance="?android:attr/textAppearanceLarge" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="60dp"
                     android:text="Χρυσοστομία Κωνσταντινίδου, Ζήνωνος Κιτίεως 64, Τηλ: 24655129"
-                    android:textSize="18dp"
+                    android:textSize="17dp"
                     android:textAppearance="?android:attr/textAppearanceLarge" />
                 <TextView
                     android:layout_width="wrap_content"
@@ -123,16 +118,16 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="60dp"
-                    android:text="Μιχάλης Ταμπουλλής, Αγ. Λαζάρους 50-52
-                Τηλ: 24628869"
-                    android:textSize="18dp"
+                    android:text="Μιχάλης Ταμπουλλής,
+                               Αγ. Λαζάρου 50-52, Τηλ: 24628869"
+                    android:textSize="17dp"
                     android:textAppearance="?android:attr/textAppearanceLarge" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="60dp"
                     android:text="Αντώνης Κληρίδης, Πατρών 6
                     Τηλ: 24622764"
-                    android:textSize="18dp"
+                    android:textSize="17dp"
                     android:textAppearance="?android:attr/textAppearanceLarge" />
 
                 <TextView
@@ -147,13 +142,13 @@
                     android:layout_height="60dp"
                     android:text="Ανδρέας Ευλαβής, Αυξεντίου και Μυλωνάς γωνία
   Τηλ: 24651317"
-                    android:textSize="18dp"
+                    android:textSize="17dp"
                     android:textAppearance="?android:attr/textAppearanceLarge" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="60dp"
-                    android:text="Νίκος Ασπρής, Λεωφόρος Αρτεμιδος 48
-                Τηλ: 24624928"
+                    android:text="Νίκος Ασπρής,
+                                                Λεωφ. Αρτεμιδος 48, Τηλ: 24624928"
                     android:textSize="18dp"
                     android:textAppearance="?android:attr/textAppearanceLarge" />
                <TextView
@@ -168,14 +163,14 @@
                     android:layout_height="60dp"
                     android:text="Βιέρα Φλουρή, Παύλου Βαλσαμάκι 54
                 Τηλ: 24628331"
-                    android:textSize="18dp"
+                    android:textSize="17dp"
                     android:textAppearance="?android:attr/textAppearanceLarge" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="60dp"
                     android:text="Μικαέλλα Παναγιώτου,
                            Λεωφ. Παπανικολή 39, Τηλ: 24251166"
-                    android:textSize="18dp"
+                    android:textSize="17dp"
                     android:textAppearance="?android:attr/textAppearanceLarge" />
 
                 <TextView
@@ -190,14 +185,14 @@
                     android:layout_height="60dp"
                     android:text="Ελένη Σωκράτους, Κιλκίς 15-17
                 Τηλ: 24651035"
-                    android:textSize="18dp"
+                    android:textSize="17dp"
                     android:textAppearance="?android:attr/textAppearanceLarge" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="60dp"
                     android:text="Ελένη Σημεού, Ραφαήλ Σαντή 15
                     Τηλ: 24254008"
-                    android:textSize="18dp"
+                    android:textSize="17dp"
                     android:textAppearance="?android:attr/textAppearanceLarge" />
 
             </TableLayout>
